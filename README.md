@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a software engineer with experience in a varie
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=mongodb)](https://github.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Mongodb](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![mysql](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Nestjs](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
