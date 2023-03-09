@@ -19,23 +19,22 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a software engineer with experience in a variety of technologies, including:
 
-- JavaScript
-- TypeScript
-- Express
-- NestJs
-- NextJs
-- HTML5
-- CSS
-- SCSS
-- Styled Components
-- React
-- React Native
-- Jest
-- Angular
-- MySQL
-- PostGreSQL
-- MongoDB
-
+- :javascript: JavaScript
+- :typescript: TypeScript
+- :nodejs: Node.js
+- :react: React
+- :atom: React Native
+- :angular: Angular
+- :html5: HTML5
+- :css3: CSS
+- :sass: SCSS
+- :lipstick: Styled Components
+- :mysql: MySQL
+- :postgresql: PostgreSQL
+- :mongo: MongoDB
+- :jest: Jest
+- :npm: npm
+- :yarn: Yarn
 ## GitHub Stats
 
 Here is a chart showing some of my GitHub activity over the past year:
