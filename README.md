@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Erik Zambeli - Software Engineer
+
+Welcome to my GitHub profile! I'm a software engineer with experience in a variety of technologies, including:
+
+- JavaScript
+- TypeScript
+- Express
+- NestJs
+- NextJs
+- HTML5
+- CSS
+- SCSS
+- Styled Components
+- React
+- React Native
+- Jest
+- Angular
+- MySQL
+- PostGreSQL
+- MongoDB
+
+## GitHub Stats
+
+Here is a chart showing some of my GitHub activity over the past year:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikZA&theme=dark&show_icons=true)
+
+## Where to Find Me
+
+- LinkedIn: [https://www.linkedin.com/in/erik-zambeli-539ab411a/](https://www.linkedin.com/in/erik-zambeli-539ab411a/)
+- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/ErikZA)
