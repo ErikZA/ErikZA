@@ -19,22 +19,8 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a software engineer with experience in a variety of technologies, including:
 
-- :javascript: JavaScript
-- :typescript: TypeScript
-- :nodejs: Node.js
-- :react: React
-- :atom: React Native
-- :angular: Angular
-- :html5: HTML5
-- :css3: CSS
-- :sass: SCSS
-- :lipstick: Styled Components
-- :mysql: MySQL
-- :postgresql: PostgreSQL
-- :mongo: MongoDB
-- :jest: Jest
-- :npm: npm
-- :yarn: Yarn
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,redis,js,ts,html,css,sass,styledcomponents,adonis,angular,aws,bootstrap,docker,express,git,github,mongodb,mysql,nestjs,nextjs,rabbitmq)](https://skillicons.dev)
+
 ## GitHub Stats
 
 Here is a chart showing some of my GitHub activity over the past year:
