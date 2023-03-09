@@ -45,4 +45,5 @@ Here is a chart showing some of my GitHub activity over the past year:
 ## Where to Find Me
 
 [![Linkedin](https://skillicons.dev/icons?i=github)](https://www.linkedin.com/in/erik-zambeli-539ab411a/)
+
 [![GitHub](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://github.com/ErikZA)
